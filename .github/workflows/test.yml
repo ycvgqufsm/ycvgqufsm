@@ -1,0 +1,14 @@
+```yml
+name: Test Rust Code
+on: [push]
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+      - name: Install Rust
+        run: rustup component add rustfmt-rustfix rustfmt clippy rust-analyzer rustfmt-ex
+      - name: Run tests
+        run: cargo test
+```
