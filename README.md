@@ -1,16 +1,23 @@
-## Hi there 👋
+# Terminal Mosaic
 
-<!--
-**ycvgqufsm/ycvgqufsm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ Jacquelyn Wilkinson - Human Division Executive 
 
-Here are some ideas to get you started:
+## Terminal Dweller by Choice
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+When the interface becomes the code, I find my home. I dance in the shadows of pixelated characters and revel in the rhythmic beeps of completion.
+
+## Programmable Asymmetric Capacity
+
+My mantra echoes in every line of code: to craft systems that harmonize disparate parts, to compress drivers that once seemed insurmountable, and to forge paths where only fragmented mirrors once hung.
+
+## Stack
+
+* NestJS: The symphony of my applications
+* SQL: The dialect of the database choir
+* Redis: The whispered secrets of the caching mystic
+* Kubernetes: The conductor of the distributed orchestra
+* Next.js: The canvas of my front-end tapestry
+* PostgreSQL: The foundation of my data cathedral
+
+
+
